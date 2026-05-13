@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Etherion_.aternos.me",
+    "ip": "Etherion_.aternos.me:51677",
     "port": 51677,
     "version": "",
     "try-creative": false
